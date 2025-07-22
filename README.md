@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hello there 👋
+I'm Carlyle and I'm a .NET software developer. I like making extremely nerdy things for extremely nerdy reasons.
+- Currently working on audio manipulation software
+- Currently learning gamedev with Godot
+- Currently looking for work!
 <!--
 **digydigdogdead/digydigdogdead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
